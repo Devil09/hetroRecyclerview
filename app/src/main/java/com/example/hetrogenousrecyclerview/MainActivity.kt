@@ -16,6 +16,7 @@ class MainActivity : AppCompatActivity() {
     lateinit var recyclerViewAdapter : ComplexRecyclerViewAdapter
 
     lateinit var recyclerView : RecyclerView
+    //
 
 
     override fun onCreate(savedInstanceState: Bundle?) {
